@@ -1,0 +1,73 @@
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe.config
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.pdb
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csprojResolveAssemblyReference.cache
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Properties.Resources.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csproj.GenerateResource.Cache
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.exe
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.pdb
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.StockCon_SelectCat.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.ColomboBranch.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.GampahaBranch.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Login2.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.A_U_D_Colombo.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Transfer_Colombo.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.View_and_search_stock_Colombo.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.A_U_D_Gampaha.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Transfer_Gampaha.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.View_and_search_stock_Gampaha.resources
+A:\Studies\Assignments\Windows app Development\program\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Administrator.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe.config
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.exe
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.pdb
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Administrator.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.AdminMenu.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.A_U_D_Colombo.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.A_U_D_Gampaha.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.ColomboBranch.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.GampahaBranch.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.HOME.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Login.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Properties.Resources.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.StockControllerMenu.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Transfer_Colombo.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Transfer_Gampaha.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.View_and_search_stock_Colombo.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.View_and_search_stock_Gampaha.resources
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe
+C:\Users\user\Desktop\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.pdb
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe.config
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.exe
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.pdb
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe.config
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.exe
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.pdb
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.pdb
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csprojResolveAssemblyReference.cache
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Administrator.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.AdminMenu.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.GampahaBranch.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.HOME.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Login.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Properties.Resources.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.StockControllerMenu.resources
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csproj.GenerateResource.Cache
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csprojResolveAssemblyReference.cache
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Administrator.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.AdminMenu.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.ColomboBranch.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.GampahaBranch.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.HOME.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Login.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.Properties.Resources.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.StockControllerMenu.resources
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.csproj.GenerateResource.Cache
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe
+I:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.pdb
+F:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New_ABC_Phone_Company.DehiwalaBranch.resources
+G:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\bin\Debug\New ABC Phone Company.exe.config
+G:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.exe
+G:\Visual C#\ASSIGNMENTTTTTT C#\New ABC Phone Company\New ABC Phone Company\obj\Debug\New ABC Phone Company.pdb
